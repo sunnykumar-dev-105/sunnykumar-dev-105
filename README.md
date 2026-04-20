@@ -177,10 +177,12 @@ I've won **Smart India Hackathon twice**, published **IEEE-indexed research**, a
 ### `{ contribution_snake }`
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunnykumar-dev-105/sunnykumar-dev-105/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/sunnykumar-dev-105/sunnykumar-dev-105/output/github-contribution-grid-snake-dark.svg" width="90%" />
-  </picture>
+  ### 🐍 My Coding Activity
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunnykumar-dev-105/sunnykumar-dev-105/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunnykumar-dev-105/sunnykumar-dev-105/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sunnykumar-dev-105/sunnykumar-dev-105/output/github-contribution-grid-snake.svg">
+</picture>
 </div>
 
 ---
