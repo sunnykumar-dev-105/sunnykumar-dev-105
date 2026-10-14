@@ -1,82 +1,82 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
+    <img src="./assets/profile-hero-light.svg" alt="Engineering that solves — research-led systems, products, and workflows" width="100%">
+  </picture>
 
-# Sunny Kumar
+  <h1>Hi, I'm Sunny Kumar.</h1>
 
-**Software Engineer · Backend & Integrations · Full-Stack Products · AI-Enabled Workflows**
+  <p><strong>Software Engineer · Backend &amp; Integrations · Full-Stack Products · AI-Enabled Workflows</strong></p>
+  <p>Research-minded engineer connecting business problems with dependable software.</p>
 
-*I research complex operational problems and turn them into reliable, practical software.*
-
-[**Email**](mailto:sunny.builds.dev@gmail.com) &nbsp;·&nbsp; [**LinkedIn**](https://www.linkedin.com/in/sunny-kumar105) &nbsp;·&nbsp; [**IEEE publication**](https://doi.org/10.1109/ICCCNT61001.2024.10725998)
-
+  <p>
+    <a href="mailto:sunny.builds.dev@gmail.com"><strong>Email</strong></a>
+    &nbsp; · &nbsp;
+    <a href="https://www.linkedin.com/in/sunny-kumar105"><strong>LinkedIn</strong></a>
+    &nbsp; · &nbsp;
+    <a href="./PROJECTS.md"><strong>Engineering work</strong></a>
+    &nbsp; · &nbsp;
+    <a href="https://doi.org/10.1109/ICCCNT61001.2024.10725998"><strong>IEEE paper</strong></a>
+  </p>
 </div>
 
 ---
 
-### What I do
+### What I bring to a team
 
-I'm a software engineer working across **backend systems, full-stack products, technical research, and workflow automation**. I enjoy understanding how a system or business really operates, identifying failure points, and translating ambiguous requirements into clear engineering contracts.
+I combine **technical research, engineering depth, and business-process understanding** to solve problems that don't arrive with perfect specifications. I investigate how a workflow really behaves, identify correctness and operational risks, design a maintainable system, and validate it against real evidence.
 
-My experience spans a **US-based healthcare technology team**, cross-platform mobile products, and sustainability-focused applications. I care about correctness, privacy, maintainability, and measurable outcomes—not just getting a demo to run.
+My background includes **US healthcare technology**, cross-platform product engineering, and **sustainability and environmental software research**.
 
-### Engineering experience
+### Selected engineering work
 
-<table>
-<tr><td width="50%" valign="top">
+**01 / Healthcare systems integration**  ·  *Professional work; source private*  
+Worked on Python-based services for patient-search and encounter-history workflows around a stateful clinical platform. Areas include authentication/session lifecycles, Playwright-assisted native request generation, XML parsing, strict matching, privacy-safe diagnostics, reliability controls, deployment, and automated tests. **Read workflows were live validated**; additional broker and write-automation work had distinct development stages.
 
-**Healthcare systems integration**  
-<sub>Professional work · source private</sub>
+**02 / WOVO LOVE — privacy-first mobile product**  ·  *Application source private*  
+Contributed across **React Native, Expo, TypeScript, Supabase/PostgreSQL**, discovery-state rules, Pass/Undo behavior, privacy-aware presentation, accessibility, and contract tests. The full safety and interaction ecosystem was not launched at the documented checkpoint.  
+[View public landing-page prototype](https://github.com/sunnykumar-dev-105/wovo-love-landing)
 
-- Built and validated patient-search and encounter-history service workflows around a stateful EHR application.
-- Worked with Python APIs, authenticated browser/session management, native request generation, XML parsing, strict identity matching, and defensive error handling.
-- Investigated real integration failures through privacy-safe diagnostics, controlled experiments, and regression tests.
+**03 / Environmental technology and ESG research**  
+Built and studied applications focused on sustainability education, resource tracking, and structured business reporting. My related work includes national Smart India Hackathon projects and an IEEE publication.  
+[Postal ESG app](https://github.com/sunny1921/esg-app) · [BRSR and mobile projects](https://github.com/sunny1921/mobile_computing)
 
-</td><td width="50%" valign="top">
+**04 / Operational product development**  
+Earlier work includes **Flutter/Firebase point-of-sale workflows** and real-estate CRM features for leads, tasks, properties, and supporting operations.  
+[FHAIDA CRM — public code](https://github.com/sunny1921/FHaiDA_CRM)
 
-**Privacy-first relationship product**  
-<sub>WOVO LOVE · application source private</sub>
+> **SKY ONE:** I also developed an environmental-awareness learning game. Its source and playable build have **not** been published here; I won't present it as a public repository.
 
-- Contributed across React Native/Expo, TypeScript, Supabase/PostgreSQL, and product architecture.
-- Worked on discovery lifecycle rules, client/server state, privacy-preserving presentation, and accessibility.
-- Applied contract-driven testing and security-minded design; some safety and interaction features remained in development.
+**[Read my engineering project notes →](./PROJECTS.md)**
 
-</td></tr>
-</table>
+### Technologies & methods
 
-**Earlier product engineering:** Flutter/Firebase point-of-sale workflows, real-estate CRM functionality, and research-led environmental applications.
-
-### Selected public work
-
-| Project | Focus | Evidence |
-| --- | --- | --- |
-| **WOVO LOVE — landing prototype** | Public landing-page implementation for a privacy-first relationship product; **not** the complete mobile application. | [View repository](https://github.com/sunnykumar-dev-105/wovo-love-landing) |
-| **ESG Post Office / postal sustainability** | Flutter-based environmental metrics, resource tracking, and reporting explorations. | [Application repository](https://github.com/sunny1921/esg-app) · [BRSR / mobile projects](https://github.com/sunny1921/mobile_computing) |
-| **FHAIDA CRM** | Real-estate CRM workflows: leads, properties, tasks, and document intake. | [View repository](https://github.com/sunny1921/FHaiDA_CRM) |
-
-**Additional work:** **SKY ONE** — an environmental-awareness educational game that I developed; its source has **not** been published on GitHub. Earlier projects are linked to their existing public repositories rather than copied here.
-
-### Technical toolkit
-
-| Area | Technologies and practices |
-| --- | --- |
-| **Backend & integration** | Python, FastAPI-style APIs, asyncio, Playwright, REST, XML/SOAP, session lifecycle, Docker |
-| **Frontend & mobile** | TypeScript, JavaScript, React Native, Expo, Flutter, Dart, React |
-| **Data & security** | PostgreSQL, Supabase, Row Level Security, Firebase, MySQL, MongoDB, access boundaries |
-| **Quality & delivery** | pytest, Ruff, mypy, contract tests, Git/GitHub, code review, deployment validation |
-| **AI & research** | LLM API integration, AI-assisted engineering, workflow analysis, TensorFlow project experience, environmental research |
+| Work area | Selected tools and practices |
+| :-- | :-- |
+| Backend & integrations | **Python**, asynchronous services, REST APIs, Playwright, XML/SOAP, Docker |
+| Frontend & mobile | **TypeScript**, React Native, Expo, React, Flutter, Dart |
+| Data & security | **PostgreSQL**, Supabase/RLS, Firebase, MySQL, MongoDB, access control |
+| Reliability | **pytest**, Ruff, mypy, contract testing, Git, controlled debugging |
+| AI & research | LLM API workflows, AI-assisted engineering, TensorFlow project work, technical analysis |
 
 ### Research & recognition
 
-- **2× National Winner — Smart India Hackathon (2023 and 2024).** Projects focused on sustainability and ESG-related problem solving.
-- **Top-10 Finalist — Cisco ThinkQBator Challenge.**
-- **IEEE ICCCNT 2024 — Research publication:** [*From Theory to Action: ESG App for Sustainable Education*](https://doi.org/10.1109/ICCCNT61001.2024.10725998).
-- **B.Tech, Computer Science & Engineering**, Rajiv Gandhi Institute of Petroleum Technology.
+- **Smart India Hackathon National Winner — 2023 and 2024** (two national wins).
+- **Cisco ThinkQBator — Top-10 finalist.**
+- **IEEE ICCCNT 2024:** [*From Theory to Action: ESG App for Sustainable Education*](https://doi.org/10.1109/ICCCNT61001.2024.10725998).
+- **B.Tech in Computer Science & Engineering**, Rajiv Gandhi Institute of Petroleum Technology.
 
-### How I approach a difficult problem
+---
 
-**Investigate the real workflow → identify constraints and failure modes → design the smallest reliable system → validate with evidence → improve iteratively.**
+<div align="center">
 
-I'm interested in **international remote software engineering roles** and selective, clearly scoped projects involving backend integrations, full-stack engineering, AI-enabled workflows, and operational improvement.
+**Have a difficult integration, product, or operational workflow to solve?**
 
-**Contact:** [sunny.builds.dev@gmail.com](mailto:sunny.builds.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sunny-kumar105)
+I'm interested in international remote engineering opportunities and selected, well-scoped collaborations.
 
-<sub>Some professional systems are private. The descriptions above summarize my contribution without publishing proprietary code, customer information, or sensitive implementation details.</sub>
+[**Get in touch**](mailto:sunny.builds.dev@gmail.com) · [**Connect on LinkedIn**](https://www.linkedin.com/in/sunny-kumar105)
+
+<sub>Professional project summaries are intentionally high-level. Private source code, credentials, patient information, and employer-confidential materials are not published here. Some public projects are hosted under an earlier collaborator/account identity.</sub>
+
+</div>
