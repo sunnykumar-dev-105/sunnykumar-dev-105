@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-light.svg">
-    <img src="./assets/profile-hero-light.svg" alt="Engineering that solves — research-led systems, products, and workflows" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunnykumar-dev-105/sunnykumar-dev-105/main/assets/profile-hero-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunnykumar-dev-105/sunnykumar-dev-105/main/assets/profile-hero-light.svg">
+    <img src="https://raw.githubusercontent.com/sunnykumar-dev-105/sunnykumar-dev-105/main/assets/profile-hero-light.svg" alt="Engineering that solves — research-led systems, products, and workflows" width="100%">
   </picture>
 
   <h1>Hi, I'm Sunny Kumar.</h1>
@@ -15,7 +15,7 @@
     &nbsp; · &nbsp;
     <a href="https://www.linkedin.com/in/sunny-kumar105"><strong>LinkedIn</strong></a>
     &nbsp; · &nbsp;
-    <a href="./PROJECTS.md"><strong>Engineering work</strong></a>
+    <a href="https://github.com/sunnykumar-dev-105/sunnykumar-dev-105/blob/main/PROJECTS.md"><strong>Engineering work</strong></a>
     &nbsp; · &nbsp;
     <a href="https://doi.org/10.1109/ICCCNT61001.2024.10725998"><strong>IEEE paper</strong></a>
   </p>
@@ -48,7 +48,7 @@ Earlier work includes **Flutter/Firebase point-of-sale workflows** and real-esta
 
 > **SKY ONE:** I also developed an environmental-awareness learning game. Its source and playable build have **not** been published here; I won't present it as a public repository.
 
-**[Read my engineering project notes →](./PROJECTS.md)**
+**[Read my engineering project notes →](https://github.com/sunnykumar-dev-105/sunnykumar-dev-105/blob/main/PROJECTS.md)**
 
 ### Technologies & methods
 
