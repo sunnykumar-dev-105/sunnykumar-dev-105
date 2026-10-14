@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
+<title id="title">Sunny Kumar — Engineering that solves</title><desc id="desc">Modern profile banner introducing research-led backend, product and automation engineering.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1323"/><stop offset="1" stop-color="#172744"/></linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#83E0CE"/><stop offset="1" stop-color="#83ACF5"/></linearGradient>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#2F4965" stroke-width="1" opacity=".3"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="268" rx="20" fill="url(#bg)"/>
+<rect x="1" y="1" width="1198" height="268" rx="20" fill="url(#grid)" opacity=".28"/>
+<rect x="1" y="1" width="1198" height="268" rx="20" fill="none" stroke="#2F4965" opacity=".48"/>
+<rect x="57" y="43" width="6" height="19" rx="3" fill="#83E0CE"/>
+<text x="81" y="57" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" letter-spacing="2.9" fill="#83E0CE">RESEARCH  /  SYSTEMS  /  PRODUCT</text>
+<text x="58" y="133" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="-1.6" fill="#F3F8FF">Engineering that solves.</text>
+<text x="59" y="177" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#ADC3D4">Backend systems · Integrations · AI-enabled workflows</text>
+<rect x="59" y="216" width="82" height="4" rx="2" fill="url(#accent)"/>
+<text x="158" y="222" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#ADC3D4">Find the real problem. Build the reliable solution.</text>
+<g transform="translate(1018 134)">
+  <circle r="112" fill="none" stroke="#83ACF5" stroke-width="1.2" opacity=".2"/>
+  <circle r="81" fill="none" stroke="#83E0CE" stroke-width="1.5" opacity=".32" stroke-dasharray="6 9"/>
+  <circle r="42" fill="none" stroke="#83E0CE" stroke-width="2" opacity=".5"/>
+  <path d="M-81 9 L-37 -29 L25 -42 L81 13 L35 54 L-29 36 Z" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".85"/>
+  <path d="M-37 -29 L35 54 M25 -42 L-29 36 M-81 9 L81 13" fill="none" stroke="#83ACF5" stroke-width="1.5" opacity=".54"/>
+  <circle cx="-81" cy="9" r="6" fill="#83E0CE"/><circle cx="-37" cy="-29" r="6" fill="#83ACF5"/>
+  <circle cx="25" cy="-42" r="7" fill="#83E0CE"/><circle cx="81" cy="13" r="6" fill="#83ACF5"/>
+  <circle cx="35" cy="54" r="6" fill="#83E0CE"/><circle cx="-29" cy="36" r="6" fill="#83ACF5"/>
+  <circle r="8" fill="#F3F8FF" opacity=".9"/>
+</g>
+</svg>
